@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/task_list.git/static/css/main.1eb8fece.css",
+    "main.js": "/task_list.git/static/js/main.852bf093.js",
+    "static/js/453.ae2aef1d.chunk.js": "/task_list.git/static/js/453.ae2aef1d.chunk.js",
+    "static/media/base_model_sd_xl.jpeg": "/task_list.git/static/media/base_model_sd_xl.799af83de602d822bb52.jpeg",
+    "index.html": "/task_list.git/index.html",
+    "main.1eb8fece.css.map": "/task_list.git/static/css/main.1eb8fece.css.map",
+    "main.852bf093.js.map": "/task_list.git/static/js/main.852bf093.js.map",
+    "453.ae2aef1d.chunk.js.map": "/task_list.git/static/js/453.ae2aef1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eb8fece.css",
+    "static/js/main.852bf093.js"
+  ]
+}
