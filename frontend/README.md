@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,34 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# Lista de Tarefas - FullStack
-
-Projeto fullstack de lista de tarefas com React (frontend) e Flask (backend).
-
-## 🛠️ Tecnologias
-- **Frontend**: React, Bootstrap, CSS
-- **Backend**: Python, Flask, SQLite
-- **Database**: SQLite
-
-## 🚀 Como executar
-
-### Backend
-```bash
-cd backend
-pip install -r requirements.txt
-python app.py
-
-#### Frontend
-cd frontend
-npm install
-npm start
-
-
-## 💻 **Comandos Git**
-
-### **1. Inicializar repositório**
-```bash
-# Na pasta raiz do seu projeto
-git init'
->>>>>>> 6d45340cca7f0a84e313877e04443d42c5d99d98
