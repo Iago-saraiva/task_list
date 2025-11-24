@@ -1,7 +1,7 @@
 {
   "name": "lista-desejos",
   "version": "0.1.0",
-  "homepage": "https://Iago-saraiva.github.io/lista_tarefas_full.git",
+  "homepage": "https://Iago-saraiva.github.io/task_list_full.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
